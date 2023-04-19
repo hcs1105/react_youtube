@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "s7E0OYDI8Nii9huWwRxuCETL-hY",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 34783,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ubHHEuKq9m_EZHbP6xlCphu5ykQ",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-02T14:19:43Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "이현욱TV[프로바둑9단]",
+        "description": "\"매혹적인 바둑\" 지루하지 않은 방송 만들어 보겠습니다^^ \"이현욱TV\" 채널을 많이 시청해 주시고 아껴 주시고 밀어 주시고 끌어 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/I2GcvP1lGJ6LfRK_Fg75E91nAbk8tnLWyeCbo9ihiI1E3RlD1mNi91ErJMkJOKvyCpVTqWvrBQ=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/I2GcvP1lGJ6LfRK_Fg75E91nAbk8tnLWyeCbo9ihiI1E3RlD1mNi91ErJMkJOKvyCpVTqWvrBQ=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/I2GcvP1lGJ6LfRK_Fg75E91nAbk8tnLWyeCbo9ihiI1E3RlD1mNi91ErJMkJOKvyCpVTqWvrBQ=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "upcoming",
+        "publishTime": "2019-09-02T14:19:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gczRFWV_j8Ym20DW5szp71qHh5M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xTS5FEYsh8k"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-19T03:48:38Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "[2023.4.19 [2023  창치배 28강전]  리쉬안하오VS후위한 (1~54) 오전11시 LIVE",
+        "description": "바둑#리쉬안하오#후위한#창치배#위즈잉#리친청#커제#딩하오.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xTS5FEYsh8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xTS5FEYsh8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xTS5FEYsh8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-19T03:48:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jvhl4hrWFKd_PTkn6OMfGUmoD6w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nvKMEzR19g4"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-17T08:43:47Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "놀라움을 넘어 공포가 느껴진다!! &quot;신진서&quot; &quot;23연승&quot; 41승3패 만화같은 성적 [YK건기배] 신진서VS박정환 23분 하이라이트 4.17",
+        "description": "바둑#신진서#박정환#역대최고#무섭기까지하다#신공지능.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nvKMEzR19g4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nvKMEzR19g4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nvKMEzR19g4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-17T08:43:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L3UdLdLhv0Q1mUCUXWSAYLZutdc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nHj9SUzvFP0"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-14T07:18:44Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "[2023.4.14] &quot;1억티켓 마지막 관문&quot; [오청원배 국내선발전 결승] 김은지VS정유진 오전11시 LIVE",
+        "description": "바둑#김은지#정유진#오청원배#최정#오유진#김채영#김경은.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nHj9SUzvFP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nHj9SUzvFP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nHj9SUzvFP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-14T07:18:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "73fXIFam66NyG57Bug-SqV6N9dg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YORuCiVRSug"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-15T16:19:31Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "&quot;신진서&quot; &quot;40승3패&quot; &quot;22연승&quot; 바둑리그 18승2패 [무엇이 다른가??] 에이스 결정전 VS이지현 19분 하이라이트 4.15",
+        "description": "바둑#신진서#이지현#바둑리그#에이스결정전#승률90%#만화같은성적.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YORuCiVRSug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YORuCiVRSug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YORuCiVRSug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-15T16:19:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bFg_tnEdx6Qn-Un_AyY9Z0vA9gQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9xu0RqX81XI"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-14T08:06:40Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "&quot;정유진&quot; 아무도 생각하지 못했다!! [오청원배 선발전 결승] 정유진VS김은지 14분 하이라이트 3.14",
+        "description": "바둑#정유진#김은지#오청원배선발전#최정#오유진#김채영#김경은.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9xu0RqX81XI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9xu0RqX81XI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9xu0RqX81XI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-14T08:06:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0RRHndSaZfYqIMa5N72tIdIDGQo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jcbF0kh8bto"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-10T22:39:48Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "&quot;생애 첫 절예와의 2점대국!!&quot; 니가 그렇게 잘둔다며???? 85수 컷 5.10",
+        "description": "절예F#2점바둑#한큐#이현욱TV#AI.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jcbF0kh8bto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jcbF0kh8bto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jcbF0kh8bto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-10T22:39:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3ATfTnnlXOpqqyaNbHdxDNxdftk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FlpOttTHDto"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-29T09:47:45Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "도무지 알 수 없는 &quot;리쉬안하오&quot; 의 경기력 랭킹1위 맞나?? 95%~5% VS펑리야오 10분 하이라이트 3.29",
+        "description": "바둑#리쉬안하오#펑리야오#중국명인전#중국랭킹1위.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FlpOttTHDto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FlpOttTHDto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FlpOttTHDto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-29T09:47:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LRZ1mGHN9WKkaz5XOAGcwFFphWg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4DwwOugKrzc"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-10T06:59:41Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "[2023.3.10] &quot;20초안에 이걸 봐야합니다!!&quot; [MZ슈퍼매치 최종국] 신진서VS박정환 22분 하이라이트",
+        "description": "7000만원 단판승부 박정환 선수의 승리가 유력시 되는순간 믿기지 않은 드라마가 시작된다!! #더글로리#바둑#신진서#박정환#MZ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4DwwOugKrzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4DwwOugKrzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4DwwOugKrzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-10T06:59:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0VEQuEx1KtnK-6nsrtClYL-Fswc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fg4beyVaanQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-11T13:43:55Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "&quot;김은지&quot; 환상적인 묘수로 바둑을 끝내다!!",
+        "description": "shorts#김은지#김형우#퓨처스리그#묘수.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fg4beyVaanQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fg4beyVaanQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fg4beyVaanQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-11T13:43:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AHI2NRSCTbA_7xVaJOd1qxqwkg4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "01oFFmrvBJU"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-23T00:00:01Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "인공지능 &quot;카타고&quot; 9점 접어주고 이기는 기보 공개합니다 여러분도 모두 가능합니다!!",
+        "description": "미국 아마추어 랭킹2위 \"펠린\" 인공지능 \"카타고\" 9점을 접고 승리하는 기적을 보여주다!! #AI#카타고#펠린#버그#누구나가능해.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/01oFFmrvBJU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/01oFFmrvBJU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/01oFFmrvBJU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-23T00:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r1w7y1ghDhDaw6fbs0E5faKu3ug",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CpjWJPRJI3k"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-13T04:33:53Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "&quot;이창호명국선&quot; [이바둑으로 &quot;이창호&quot;시대가 열렸다!] &quot;마샤오춘&quot;을 울린 1선묘수!! 1997년 삼성화재배 4강전 하이라이트 10.12",
+        "description": "바둑#이창호#먀사오춘#이창호명국선#삼성화재배#비운의천재#기적의묘수#응답하라1997.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CpjWJPRJI3k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CpjWJPRJI3k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CpjWJPRJI3k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-13T04:33:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gA5omEIlNjDYLs5nOmeT6Nz-NEs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4BJPPHrtNSQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-13T13:57:25Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "&quot;16살에 이런바둑을 둔다고???&quot; 20수앞을 내다본 이창호9단의 미친수읽기!! 왕위전7국 VS조훈현 1991년4월24일",
+        "description": "바둑#이창호#조훈현#왕위전#이창호명국선#1991년#1인자#사제대결#만16세.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4BJPPHrtNSQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4BJPPHrtNSQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4BJPPHrtNSQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-13T13:57:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bxbqQlTjpO03-SYcsLqgKmOo-L4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ju9HrJjSFQ4"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-28T15:58:30Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "[이현욱의5분레슨] 25년동안 제가 잘못알고있었네요;;이제라도 바로잡겠습니다",
+        "description": "그동안 잘못알고있던 변화 참으로 간단하게 처리하는 수가 있었네요^^;; AI의 간명한 수법 감상하시죠!! #AI선생님 #이현욱바둑TV #5 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ju9HrJjSFQ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ju9HrJjSFQ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ju9HrJjSFQ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-28T15:58:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VNYrr6CuuC1-B1KuIrfXtb_E7xA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Kcb4wggVLao"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-27T03:37:22Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "[2023.2.24] &quot;신진서는 보았고 구쯔하오는 보지 못했다&quot; 농심배 최종국 14분 하이라이트",
+        "description": "수읽기의 차이에서 승부는 갈렸다 현대바둑에서 시간안배가 중요한 이유 #바둑#신진서#구쯔하오#농심배#10연승#상금5억#사람은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kcb4wggVLao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kcb4wggVLao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kcb4wggVLao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-27T03:37:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wvqKFVyaZGO2rUG-hVHByfsLGgk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zPiTrocjZdI"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-03T09:15:18Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "&quot;최정&quot; 중국의 마지막 보루 &quot;양딩신&quot; 을 격파하고 세계4강진출!! 30년만에 대기록 [삼성화재배 8강전] 최정VS양딩신 19분 하이라이트 11.3",
+        "description": "92년 루이나이웨이 이후 남녀 통합세계대회 첫 4강을 노리는 최정 중국의 천재기사 양딩신 만나다!! #바둑#최정#양딩신#삼성화재배# ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zPiTrocjZdI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zPiTrocjZdI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zPiTrocjZdI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-03T09:15:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M91q3zBAKZ-sZUEToxJTRijeO7s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mU_VtW6d2Ro"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-26T14:14:58Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "&quot;역대 가장 재밌는 바둑 베스트1위&quot; 조치훈VS가토마사오 40년전바둑 하이라이트",
+        "description": "바둑#조치훈#가토마사오#명국#폭파전문가#대마킬러#이현욱TV.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mU_VtW6d2Ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mU_VtW6d2Ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mU_VtW6d2Ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-26T14:14:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hns_ezLyRuctl1YFNEtbupIAqrA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fFFibdXzpDY"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-19T05:06:04Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "&quot;이창호가 남아있다면 그때부터 시작이다!!&quot; [2007년2월8일 VS콩지에] &quot;이창호명국선&quot; 다섯번째",
+        "description": "'이창호\" 혼자남은 상황에서 중국이 자랑하는 원투펀치 구리,콩지에를 상대 해야하는상황#바둑#이창호#콩지에#농심신라면배# ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fFFibdXzpDY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fFFibdXzpDY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fFFibdXzpDY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-19T05:06:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RmJm6BGpMocw1Q3QyoEjvWuynxA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CMMW8Cy2wbc"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-17T13:18:53Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "[2023.4.17]  [2023 KB 퓨처스리그] 김은지VS한웅규 김채영VS김윤태 김경은VS김성재 저녁7시 LIVE",
+        "description": "바둑#퓨처스리그#김은지#한웅규#김채영#김경은#하루2판.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CMMW8Cy2wbc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CMMW8Cy2wbc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CMMW8Cy2wbc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-17T13:18:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z6GNBkCqjIOC8g-E1rD4d1LOww0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q4Lk3mBVovo"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-30T11:00:14Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "[이현욱의 5분레슨11강]누구나 따라할수있는 AI정석들만 알려드릴께요!!저만 믿고 따라오세요^^",
+        "description": "중급자들 바둑에서 많이 나오는 형태중에서 엄선했습니다 AI가 알려주는 수법들중에서 쉽게 따라할수있는 정석입니다 영상 보시구 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q4Lk3mBVovo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q4Lk3mBVovo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q4Lk3mBVovo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-30T11:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lVLWdl-vfV4whj6iu4nwOJVipYQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "znbqIKmobXE"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-31T02:38:14Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "&quot;신진서&quot; 이건 너무 한거 아닌가요?? [KB 바둑리그 에이스 결정전] 신진서VS김명훈16분 하이라이트 3.30",
+        "description": "바둑#신진서#김명훈#KB바둑리그#에이스결정전#초속기#완벽한바둑.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/znbqIKmobXE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/znbqIKmobXE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/znbqIKmobXE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-31T02:38:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4RixEJ77JG3rd2MhqXy3hT85h7k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vm4Bjr71rbU"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-20T00:00:13Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "[2023.2.19] 진짜 이렇게 두면 이긴다구?? 기보 공개합니다!! 미국아마추어VS카타고",
+        "description": "2016년 \"이세돌\" 신의한수로 알파고에게 승리한것이 인간이 AI에게 호선으로 유일한 승리였다 7년후 2023년 미국의 아마추어선수가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vm4Bjr71rbU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vm4Bjr71rbU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vm4Bjr71rbU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-20T00:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8R9Kb-da53HAU5QZpOyAdsiAWPE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K37X5UlKvL0"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-23T08:40:02Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "&quot;신진서&quot;3연승! 실시간 3000명이 경악한 절묘한 사석작전!!농심신라면배 VS양딩신 하이라이트 2.23",
+        "description": "신진서 올킬까지 앞으로2명 #바둑#신진서#양딩신#농심신라면배#3연승#커제#박정환#이치리키료#사석작전#신공지능.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K37X5UlKvL0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K37X5UlKvL0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K37X5UlKvL0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-23T08:40:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nZpqISzDDU9tBYlM1_VsSnbnVEY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "duz2VhghLhg"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-17T04:20:13Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "&quot;남은사람은 4명 티켓은 1장&quot;  [글로비스배 선발전 4강전] 김은지VS권효진 4.17 오전11시 LIVE",
+        "description": "바둑#글로비스배#김은지#권효진#한우진#김승진#신진서#신민준#왕싱하오.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/duz2VhghLhg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/duz2VhghLhg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/duz2VhghLhg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-17T04:20:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Itia9V4ITiuLS5_qy2heaj_oaJg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IKUDU-MEyV8"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-04T08:34:45Z",
+        "channelId": "UC3IGAaL0LQDARZMowdJnAog",
+        "title": "&quot;최정&quot; 누구도 해내지 못한 대기록 도전판!! [삼성화재배 4강전] 최정VS변상일 오후2시30분 LIVE 11.4",
+        "description": "30년만의 대기록 달성한 \"최정\" 첫 메이저대회 결승을 노리는 \"변상일\" 축제를 즐겨보자!! #바둑#최정#변상일#삼성화재배#국민남매 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IKUDU-MEyV8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IKUDU-MEyV8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IKUDU-MEyV8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이현욱TV[프로바둑9단]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-04T08:34:45Z"
+      }
+    }
+  ]
+}
