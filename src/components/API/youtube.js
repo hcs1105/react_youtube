@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 export default class Youtube {
-  constructor() {
+  constructor() { // 기본적인 URL과 key 설정
     this.httpClient = axios.create({
       baseURL : 'https://www.googleapis.com/youtube/v3',
       params : {
