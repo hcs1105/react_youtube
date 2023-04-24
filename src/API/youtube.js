@@ -9,7 +9,7 @@ export default class Youtube {
     
   async #searchByKeyword(keyword) {
     return this.apiClient
-      .search({
+      .search({ // 비동기이며 promise를 리턴하는 함수
         params : {
           part : 'snippet',
           maxResults : 25,
