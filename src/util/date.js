@@ -3,6 +3,6 @@ import koLocale from 'timeago.js/lib/lang/ko';
 
 register('ko', koLocale);
 
-export function formatAgo(date, lang = 'en-us'){
+export function formatAgo(date, lang = 'en_us'){
   return format(date, lang);
 }
