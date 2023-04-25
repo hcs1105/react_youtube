@@ -6,7 +6,7 @@ export default function VideoCard({ video }) {
 
   return (
     <li>
-      <img src={thumbnails.medium.url} alt={title} />
+      <img src={thumbnails.medium.url} alt="" />
       <div>
         <h2>{title}</h2>
         <p>{channelTitle}</p>
