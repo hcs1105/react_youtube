@@ -6,12 +6,10 @@ export default function VideoCard({ video }) {
 
   return (
     <li>
-      <img src={thumbnails.medium.url} alt="" />
-      <div>
-        <h2>{title}</h2>
-        <p>{channelTitle}</p>
-        <p>{formatAgo(publishedAt, 'ko')}</p>
-      </div>
+      <img src={thumbnails.medium.url} className="w-full" alt="" />    
+      <h2 className="font-bold my-2 line-clamp-2">{title}</h2>
+      <p className="text-sm opacity-75">{channelTitle}</p>
+      <p className="text-sm opacity-75">{formatAgo(publishedAt, 'ko')}</p>
     </li>
   );
 }
