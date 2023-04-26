@@ -7,7 +7,7 @@ export default function VideoCard({ video }) {
   const navigate = useNavigate();
 
   return (
-    <li onClick={() => {navigate(`/videos/watch/${video.id}`, {state: { video }})}}>
+    <li onClick={() => {navigate(`/videos/watch/${video.id}`, {state: { video }});}}>
       <img src={thumbnails.medium.url} className="w-full" alt="" />    
       <h2 className="font-bold my-2 line-clamp-2">{title}</h2>
       <p className="text-sm opacity-75">{channelTitle}</p>

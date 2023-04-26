@@ -20,7 +20,7 @@ export default function VideoDetail() {
           src={`http://www.youtube.com/embed/${video.id}`} 
           frameBorder="0" 
           title="" />
-        <h1>{ title }</h1>
+        <h2>{title}</h2>
         <ChanneInfo name={channelTitle} id={channelId} />
         <pre>{description}</pre>
       </section>
