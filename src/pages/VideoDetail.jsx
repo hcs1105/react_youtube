@@ -8,9 +8,9 @@ export default function VideoDetail() {
   const { title, channelId, channelTitle, description } = video.snippet;
  
   return (
-    <div>
+    <div className="flex flex-col lg:flex-row">
       {/* 비디오 상세 보기 */}
-      <section>
+      <section className="basis-4/6">
         {/* eslint-disable-next-line */}
         <iframe 
           id="player" 
@@ -20,9 +20,11 @@ export default function VideoDetail() {
           src={`http://www.youtube.com/embed/${video.id}`} 
           frameBorder="0" 
           title="" />
-        <h2>{title}</h2>
-        <ChanneInfo name={channelTitle} id={channelId} />
-        <pre>{description}</pre>
+        <div className="p-4">
+          <h2 className="text-xl font-bold">{title}</h2>
+          <ChanneInfo name={channelTitle} id={channelId} />
+          <pre className="whitespace-nowrap">{description}</pre>
+        </div>
       </section>
       {/* 연관 비디오 목록 */}
       <section>
