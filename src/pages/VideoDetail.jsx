@@ -23,7 +23,7 @@ export default function VideoDetail() {
         <div className="p-4">
           <h2 className="text-xl font-bold">{title}</h2>
           <ChanneInfo name={channelTitle} id={channelId} />
-          <pre className="whitespace-pre-wrap">{description}</pre>
+          <pre className="whitespace-pre-wrap break-words break-all">{description}</pre>
         </div>
       </section>
       {/* 연관 비디오 목록 */}
