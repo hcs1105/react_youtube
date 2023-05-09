@@ -30,7 +30,7 @@ https://hcs1105-react-youtube.netlify.app
 * Youtube API - https://developers.google.com/youtube/v3/getting-started?hl=ko
 * React icons - https://react-icons.github.io/react-icons/
 
-### 주요 기능
+### 주요 기능gg
 
 #### 공통
   * timeage.js 라이브러리를 통해 Youtube 영상 게시일자 표기(ex. 1일 전, 14시간 전, 3개월 전)
