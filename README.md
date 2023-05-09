@@ -43,4 +43,4 @@ https://hcs1105-react-youtube.netlify.app
   
 #### 상세 화면
   * Youtube API에서 제공하는 파라미터를 통해 선택한 유튜브 영상의 제목, 설명 등을 동적으로 구현
-  * useQuery 메서드를 이용하여 연관 유튜브 영상 목록 추
+  * useQuery 메서드를 이용하여 연관 유튜브 영상 목록 추출
