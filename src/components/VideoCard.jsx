@@ -3,12 +3,18 @@ import { formatAgo } from '../util/date';
 import { useNavigate } from 'react-router-dom';
 
 export default function VideoCard({ video, type }) {
-  const {title, thumbnails, channelTitle, publishedAt} = video.snippet;
+  const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
   const navigate = useNavigate();
   const isList = type === 'list';
+  const scrollTop = () => {
+    navigate(`/videos/watch/${video.id}`, {state: { video }});
+    window.scrollTo({
+      top: 0,
+    })
+  }
 
   return (
-    <li className={isList ? 'flex gap-1 m-2' : ''} onClick={() => {navigate(`/videos/watch/${video.id}`, {state: { video }});}}>
+    <li className={isList ? 'flex gap-1 m-2' : ''} onClick={scrollTop}>
       <img src={thumbnails.medium.url} className={isList ? 'w-60 mr-2' : 'w-full'} alt="" />
       <div>
         <h2 className="font-bold my-2 line-clamp-2">{title}</h2>
