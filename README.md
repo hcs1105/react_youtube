@@ -1,4 +1,4 @@
-# 유투브 프로젝트
+# 유튜브 프로젝트
 리액트와 유튜브 API를 이용하여 유튜브 사이트를 만든 개인 프로젝트입니다.
 
 ## 소스 내려받기
@@ -18,7 +18,7 @@ https://hcs1105-react-youtube.netlify.app
 ## 유튜브 프로젝트 설명
 
 ### 작업 기간
-2023년 4월 19일 ~ 2023년 4월 28일
+2023년 4월 19일 ~ 2023년 5월 11일
 
 ### 작업할 때 사용한 라이브러리 및 프레임워크
 * CRA(Create React App) - https://create-react-app.dev/docs/getting-started
