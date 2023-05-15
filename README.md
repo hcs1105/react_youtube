@@ -1,5 +1,5 @@
 # 유튜브 프로젝트
-리액트와 유튜브 API를 이용하여 유튜브 사이트를 만든 개인 프로젝트입니다.
+React와 Youtube에서 제공하는 API를 이용하여 Youtube를 만든 개인 프로젝트입니다.
 
 ## 소스 내려받기
 ```
@@ -22,9 +22,9 @@ https://hcs1105-react-youtube.netlify.app
 
 ### 작업할 때 사용한 라이브러리 및 프레임워크
 * CRA(Create React App) - https://create-react-app.dev/docs/getting-started
-* tailwind CSS 프레임워크 - https://tailwindcss.com
-* timeago.js 라이브러리 - https://github.com/hustcc/timeago.js
-* axios 라이브러리 - https://github.com/axios/axios
+* tailwind CSS - https://tailwindcss.com
+* timeago.js - https://github.com/hustcc/timeago.js
+* axios - https://github.com/axios/axios
 * React Router - https://reactrouter.com/en/main
 * React Query - https://tanstack.com/query/latest
 * Youtube API - https://developers.google.com/youtube/v3/getting-started?hl=ko
@@ -38,9 +38,9 @@ https://hcs1105-react-youtube.netlify.app
   * tailwind CSS 프레임워크를 이용하여 반응형 웹 구현
 
 #### 메인 화면
-  * 실시간으로 이용 중인 Hot Trend 유튜브 영상을 25개씩 배치
+  * 실시간으로 이용 중인 Hot Trend Youtube 영상을 25개씩 배치
   * React Query 라이브러리를 이용하여 검색 기능 추가
   
 #### 상세 화면
-  * Youtube API에서 제공하는 파라미터를 통해 선택한 유튜브 영상의 제목, 설명 등을 동적으로 구현
-  * useQuery 메서드를 이용하여 연관 유튜브 영상 목록 추가
+  * Youtube API에 있는 파라미터를 통해 선택한 Youtube 영상의 제목과 설명 등을 동적으로 구현
+  * useQuery 메서드를 이용하여 연관 Youtube 영상 목록 추가
